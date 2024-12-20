@@ -4,9 +4,9 @@ import math
 
 print(mp.__file__)
 
-L_ELBOW = (11, 13, 15)
+L_shoulder = (23, 11, 13)
 L_KNEE = (23, 25, 27)
-R_ELBOW = (12, 14, 16)
+R_shoulder = (24, 12, 14)
 R_KNEE = (24, 26, 28)
 
 bodys = [L_ELBOW, R_ELBOW, L_KNEE, R_KNEE]
